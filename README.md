@@ -1,6 +1,18 @@
 <h1 align="center">Hello friend👋 Welcome To my profile! 😊 </h1>
 <p align="center">A passionate and curious friend learning about the IT world from Norway! </p>
 
+<h2 align="center">About me</h2>
+
+###
+
+<p align="center">✨ Creating projects since 2025<br>📚 I'm currently learning about ethical hacking<br>🎯 Goals: Becomming one of the best in Norway<br>🎲 Fun fact: Very stupid but very cheeky</p>
+
+###
+
+<p align="center">The devices i currently work with: Laptop💻 </p>
+
+###
+
 <h2 align="center">🚀 Languages and Tools I Use</h2>
 <div align="center">
   <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="90" /></a>
