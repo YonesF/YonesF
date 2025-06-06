@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋Hello Friend! Welcome To my profile 😊 </h1>
+<h1 align="center">Hello Friend👋 Welcome To my profile! 😊 </h1>
 
 ###
 
