@@ -12,7 +12,6 @@
   🎂 21 years old<br>
   🌌 In love with space — rockets, planets, black holes, all of it<br>
   💻 Building things with Python, C# and .NET<br>
-  🛰️ Fun fact: the ISS circles Earth every ~90 minutes, so its crew sees 16 sunrises a day
 </p>
 
 <h2 align="center">🚀 Languages and Tools I Use</h2>
