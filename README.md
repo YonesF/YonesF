@@ -55,4 +55,3 @@ Jeg er en IT og informasjonssystemstudent (3. studieår) ved Universitetet i Agd
 
 * **Portefølje:** [yonesf.github.io/Portfolio](https://yonesf.github.io/Portfolio/)
 * **E-post:** [yonesmf@uia.no](mailto:yonesmf@uia.no)
-* **Telefon:** +47 994 92 005
