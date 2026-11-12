@@ -1,6 +1,6 @@
 # Hei, jeg er Yones Feili :D
 
-**Junior utvikler og KI / AI** 
+**Junior utvikler og KI Ingeniør** 
 Kristiansand, Norge
 
 ## Ferdigheter
